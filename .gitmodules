@@ -1,0 +1,3 @@
+[submodule "lab3_sub"]
+	path = lab3_sub
+	url = https://github.com/kfghio/lab3_sub.git
